@@ -19,11 +19,8 @@
 
 <samp>
 I’m currently learning Java & Python <br>
-How to reach me: <a href="sbilalulhassan4@gmail.com">sbilalulhassan@gmail.com</a> <br>
 Discord: <a href="https://discordapp.com/users/725620582942507065" target="_blank">BilloXD</a> <br>
 Instagram: <a href="https://instagram.com/ig.billo" target="_blank">ig.billo</a> <br>
-Snapchat: <a href="https://www.snapchat.com/add/ig.billo" target="_blank">ig.billo</a> <br>
-<a href="https://www.buymeacoffee.com/">Buy Me A Coffee</a>
 </samp>
 
 <br><br>
@@ -41,14 +38,6 @@ I have experience using these tools and languages. <br> <br>
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)
-
-<br><br>
-
-### <img src="./assets/gifs/folder.gif" width="28" alt="Extras" /> **Extras**
-
-![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white) &nbsp;
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-
 
 <br><br>
 
